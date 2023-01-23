@@ -3,9 +3,9 @@
  
 ## Sobre mim
 :raising_hand: Sou a Izabelly, tenho 24 anos<br>
-:woman_student:Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)<br>
-:seedling:Estudando, praticando e fazendo projetos em: `.html` `.css` `.js` e `.rb`<br>
-:computer:Buscando primeira experiência profissional em front end<br>
+:woman_student:Análise e Desenvolvimento de Sistemas <br>
+:seedling:Estudando, praticando e fazendo projetos em: `.rb`, `.html` `.css` e `.js` <br>
+:computer:Buscando primeira experiência profissional desenvolvimento web <br>
 :zap: Fato curioso: Yo actualmente speak three idiomas :earth_americas:<br> 
 
 ## Saiba mais (e manda jobs :satisfied:) ! 
