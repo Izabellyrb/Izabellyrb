@@ -2,8 +2,8 @@
 # Welcome!
 
 ## About me
-:raising_hand_woman: I'm Izabelly, 25 years old <br>
-:woman_student: Analysis and Systems Development graduate <br>
+:raising_hand_woman: I'm Izabelly, 26 years old <br>
+:woman_student: Developer, Analysis and Systems Development graduate <br>
 :seedling: Studying, practicing and developing projects in: `.rb`, `.html` `.css` and `.js` <br>
 :zap: Fun fact: Eu actualmente speak three idiomas :earth_americas:<br> 
 
@@ -17,8 +17,8 @@
 ----
  
 ## Sobre mim
-:raising_hand_woman: Sou a Izabelly, tenho 25 anos<br>
-:woman_student: Graduada em Análise e Desenvolvimento de Sistemas <br>
+:raising_hand_woman: Sou a Izabelly, tenho 26 anos<br>
+:woman_student: Desenvolvedora, graduada em Análise e Desenvolvimento de Sistemas <br>
 :seedling: Estudando, praticando e desenvolvendo projetos em: `.rb`, `.html` `.css` e `.js` <br>
 :zap: Fato curioso: Yo actualmente speak three idiomas :earth_americas:<br> 
 
